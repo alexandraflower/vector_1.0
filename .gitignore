@@ -1,0 +1,13 @@
+build/
+bin/
+obj/
+*.o
+*.a
+*.so
+*.gcda
+*.gcno
+coverage.info
+vector_app
+run_tests
+.vscode/
+.idea/
