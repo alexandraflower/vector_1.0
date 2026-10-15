@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/vector_app.dir/link.d CMakeFiles/vector_app.dir/main.cpp.o -o vector_app  libVector3D_lib.a
