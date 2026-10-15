@@ -15,7 +15,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 # ---------------------------------------------------------
 add_library(Vector3D_lib STATIC 
     Vector3D.cpp 
-    Vector3D.h
+    Vector3D.hpp
 )
 
 # Указываем, где искать заголовки (PUBLIC передаст путь исполняемым файлам и тестам)
