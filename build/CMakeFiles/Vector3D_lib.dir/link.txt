@@ -1,2 +1,0 @@
-/usr/bin/ar qc libVector3D_lib.a CMakeFiles/Vector3D_lib.dir/Vector3D.cpp.o
-/usr/bin/ranlib libVector3D_lib.a

@@ -1,6 +1,0 @@
-/home/alexandraflower/PPOIS/Vector/build/CMakeFiles/Vector3D_lib.dir
-/home/alexandraflower/PPOIS/Vector/build/CMakeFiles/vector_app.dir
-/home/alexandraflower/PPOIS/Vector/build/CMakeFiles/run_tests.dir
-/home/alexandraflower/PPOIS/Vector/build/CMakeFiles/test.dir
-/home/alexandraflower/PPOIS/Vector/build/CMakeFiles/edit_cache.dir
-/home/alexandraflower/PPOIS/Vector/build/CMakeFiles/rebuild_cache.dir
